@@ -1,5 +1,10 @@
 ## Hi, I'm Rodiat ✨
 
+- 👀 I’m a Backend Developer
+- 🌱 I’m currently exploring Frontend & Mobile Development
+- 💞 I’m actively open for work opportunities
+- 📫 How to reach me: rodiathammed48@gmail.com
+
 <!--
 **codefromlani/codefromlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
