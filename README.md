@@ -2,7 +2,7 @@
 
 - 👀 I’m a Backend Developer
 - 🌱 I’m currently exploring Frontend & Mobile Development
-- 💞 I’m actively open for work opportunities
+- 💞 I’m actively open to work opportunities
 - 📫 How to reach me: rodiathammed48@gmail.com
 
 <!--
